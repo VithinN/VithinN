@@ -2,9 +2,7 @@
 
 Meu nome é VItor Alexandre 
 
-Estou estudando na Alura
-
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na linguagem Python
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
